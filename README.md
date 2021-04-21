@@ -3,3 +3,4 @@
 # Versión 1 comunicada por Daniel Carneros
 # Versión 2 generada por Daniel Carneros 
 # Versión 2 verificada por Pablo López
+# Versión 2 comunicada por Jordi Escobar
