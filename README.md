@@ -6,4 +6,4 @@
 # Versión 2 comunica por Jordi Escobar en: https://www.youtube.com/watch?v=ze5wO5mUBic
 # Versión 3 generada por Jordi Escobar 
 # Versión 3 verificada por Daniel Carneros
-# Versión 3 comunica por Pablo López en:
+# Versión 3 comunica por Pablo López en: https://youtu.be/gKGNkWfEZYs
