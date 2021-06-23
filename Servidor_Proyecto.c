@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <mysql.h>
 #include <pthread.h>
-
+     
 pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
 
 MYSQL *conn;
