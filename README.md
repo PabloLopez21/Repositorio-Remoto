@@ -13,3 +13,5 @@
 # Versión 5 generada por Daniel Carneros 
 # Versión 5 verificada por Pablo López 
 # Versión 5 comunica por Jordi Escobar en: https://www.youtube.com/watch?v=zQpUnQKViUg
+# Versión final generada por Daniel Carneros
+# Versión final verificada por Pablo López
