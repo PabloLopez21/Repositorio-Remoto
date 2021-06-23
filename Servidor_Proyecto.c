@@ -20,7 +20,6 @@ int contador;
 int i;
 int sockets[100];
 
-
 typedef struct {
 	char nombre [20];
 	int socket;
