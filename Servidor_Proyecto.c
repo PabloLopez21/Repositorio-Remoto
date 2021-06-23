@@ -863,7 +863,5 @@ int main(int argc, char *argv[]){
 		pthread_create (&thread[i], NULL, AtenderCliente, &sockets[i]);
 		i=i+1;
 	}
-	mysql_close (conn);
-	
-	
+	mysql_close (conn);   
 }
